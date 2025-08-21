@@ -3,6 +3,12 @@
 This project implements a determinant calculator for square matrices (2 ≤ N ≤ 5) in **x86 Assembly**.  
 The program computes the determinant using **recursive minor expansion** and supports signed 16-bit integer values.
 
+## Visualization (3x3 Example)
+
+This is a simple visualization of a 3x3 matrix and its determinant calculation:
+
+![Matrix Determinant](matrix_recursive_alg.avif)
+
 ## Features
 - Supports matrix sizes from 2x2 up to 5x5
 - Recursive calculation via **Laplace expansion**
